@@ -12,6 +12,10 @@
 6. To check that everything is alright run `ls -la` and then `cat package.json`.
 7. If you have any problems open an [issue](https://github.com/wwwdrt/MicroverseSetup/issues)
 
+![image](https://user-images.githubusercontent.com/100488248/236650825-6223f06f-5885-46b7-9297-091f35dd183d.png)
+![image](https://user-images.githubusercontent.com/100488248/236650830-82020e3b-0d41-492c-9f60-d4dce60051b9.png)
+![image](https://user-images.githubusercontent.com/100488248/236650831-8ad64464-f304-4e05-8d95-0b0c6ff89944.png)
+
 # 🚀 Upcoming Features
 
 - [ ] Add interactive options to allow the user to select a specific setup for their project from a list of options. 
