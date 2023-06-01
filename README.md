@@ -6,6 +6,8 @@ This tool automates the configuration of a Microverse Project.
 
 > When you run the tool, you will be presented with a list of options. To select multiple configurations, simply use the space bar. Once you have chosen the configurations you need, press enter and wait for the script to complete its tasks.
 
+https://www.loom.com/share/abfb2572084c446d9fbd6bc430c56ee3
+
 Start by cloning the repository to your home user directory.
 
 ```bash
