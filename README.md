@@ -34,6 +34,10 @@ node Setup.js
 
 - [✅] Add interactive options to allow the user to select a specific setup for their project from a list of options.
 - [✅] Support for React.
+- [ ] Support for ZSH and alias --fix commands.
+  - [ ] Automatically switch your shell to ZSH and install powerlevel10k.
+  - [ ] Add antigen to add basic plugin functionality.
+  - [ ] Add basic scripts to ease development and testing.
 - [ ] Support for Ruby.
 - [ ] Support for ROR.
 
