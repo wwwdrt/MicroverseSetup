@@ -2,6 +2,14 @@
 
 This tool automates the configuration of a Microverse Project.
 
+# Updates
+
+> I have been messaged twice about the script not working in Windows, it does work in Linux and MacOS, I think it should work on Windows with WSL, let me know if it does.
+
+- [ ] Add support for Windows
+
+I will add support as soon as I have time. 
+
 # 💻 Getting Started
 
 > When you run the tool, you will be presented with a list of options. To select multiple configurations, simply use the space bar. Once you have chosen the configurations you need, press enter and wait for the script to complete its tasks.
