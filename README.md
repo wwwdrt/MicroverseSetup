@@ -2,13 +2,18 @@
 
 This tool automates the configuration of a Microverse Project.
 
-# Updates
+# 🆕 Updates
 
-> I have been messaged twice about the script not working in Windows, it does work in Linux and MacOS, I think it should work on Windows with WSL, let me know if it does.
+🔵 I have been messaged twice about the script not working in Windows, it does work in Linux and MacOS, I think it should work on Windows with WSL, let me know if it does.
 
-- [ ] Add support for Windows
+🔴 As for right now the react config works after creating the react application.
 
-I will add support as soon as I have time. 
+
+# 🤩 In Progress
+
+- [ ] Minor fix react config, automate the creation of a react app, and overall project configuration.
+- [ ] Test tooll on Windows.
+- [ ] Add support for Windows.
 
 # 💻 Getting Started
 
@@ -52,6 +57,8 @@ node Setup.js
 - [ ] Support for ROR.
 
 # 📜 Todo
+
+> Exploring 😃
 
 - [ ] Write script in LUA
 - [ ] Write script in TypeScript
