@@ -8,6 +8,9 @@ This tool automates the configuration of a Microverse Project.
 
 🔴 As for right now the react config works after creating the react application.
 
+🟡 I decided to stop working on this project.
+
+📌 I feel that continuing the development of this script is unecessary. I always automate repetitive tasks, you can find my scripts [here](https://github.com/wwwdrt/dotfiles).
 
 # 🤩 In Progress
 
